@@ -4,7 +4,7 @@
 Le but du jeu est d'attraper des pots de miel qui apparaissent à des emplacements aléatoires. Au fur et à mesure des niveaux, la difficulté augmente : un écureuil lance une noisette qu'il faut éviter et l'essaim d'abeilles poursuit l'ours de plus en plus vite. 
 
 ## Contexte de développement
-Ce jeu a été créé lors de la première semaine de la formation CS50 de Harvard. En plus de la création de l'algorithme, j'ai créé les sons et dessinés les visuels.
+Ce jeu a été créé lors de la première semaine de la formation CS50 de Harvard. En plus de la création de l'algorithme, j'ai créé les sons et dessiné les visuels.
 
 ## Technologie
 Scratch : outil d'initiation à l'algorithmie créé par le MIT qui fonctionne en assemblant des blocs personnalisables.
