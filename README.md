@@ -12,12 +12,16 @@ Scratch : outil d'initiation à l'algorithmie créé par le MIT qui fonctionne e
 ## Captures d'écran
 
 Ecran d'accueil :
+
 ![image](https://user-images.githubusercontent.com/118806790/230459491-0576c86e-c444-4592-b3b4-e890a41e8031.png)
 
 Ecran de défaite :
+
 ![image](https://user-images.githubusercontent.com/118806790/230459791-298d2873-b344-46a2-960b-efd6d1aa821c.png)
 
-Ecran de victoire : A vous de jouer, bonne chance ! :computer: :raised_hands:
+Ecran de victoire : 
+
+A vous de jouer, bonne chance ! :computer: :raised_hands:
 
 
 
