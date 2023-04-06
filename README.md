@@ -1,4 +1,4 @@
-# Honeypot
+# Honeypot :bear: :honeybee:
 
 Hello! 
 
