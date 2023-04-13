@@ -21,7 +21,9 @@ Ecran de défaite :
 
 Ecran de victoire : 
 
-A vous de jouer, bonne chance ! :computer: :raised_hands:
+![Sans titre (2)](https://user-images.githubusercontent.com/118806790/231719194-5cf777f0-2a68-49e5-b937-49cda99f2b46.png)
+
+A vous de jouer pour découvrir l'écrant de victoire, bonne chance ! :computer: :raised_hands:
 
 
 
